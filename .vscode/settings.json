@@ -1,0 +1,17 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "autoimport.showNotifications": true,
+  "path-intellisense.autoTriggerNextSuggestion": true,
+  "path-intellisense.showHiddenFiles": true,
+  "path-intellisense.extensionOnImport": true,
+  "namespaceResolver.highlightOnOpen": true,
+  "namespaceResolver.highlightOnSave": true,
+  "javascript.suggest.completeFunctionCalls": true,
+  "typescript.suggest.paths": true,
+  "javascript.suggest.paths": true,
+  "path-autocomplete.extensionOnImport": false,
+  "comment-divider.length": 70,
+  "comment-divider.lineFiller": "="
+}

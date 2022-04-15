@@ -1,0 +1,21 @@
+export const LOADING = "LOADING";
+export const LOADING_ALL_SHOWS = "LOADING_ALL_SHOWS";
+export const STOP_LOADING_ALL_SHOWS = "STOP_LOADING_ALL_SHOWS";
+export const GET_DATA = "GET_DATA";
+export const SET_MOVIES = "SET_MOVIES";
+export const SET_TVSHOWS = "SET_TVSHOWS";
+export const SET_FAVORITES = "SET_FAVORITES";
+export const GET_LATEST_SEARCHED = "GET_LATEST_SEARCHED";
+export const SET_LATEST_SEARCHED = "SET_LATEST_SEARCHED";
+
+export const GET_BOTTOM_SHEET_CONTENT = "GET_BOTTOM_SHEET_CONTENT";
+export const SET_BOTTOM_SHEET_INDEX = "SET_BOTTOM_SHEET_INDEX";
+
+export const GET_MOVIE = "GET_MOVIE";
+export const GET_TVSHOW = "GET_TVSHOW";
+export const SET_SEARCH = "SET_SEARCH";
+export const WATCHLIST = "WATCHLIST";
+export const ADD_LIST = "ADD_LIST";
+export const DELETE_LIST_ITEM = "DELETE_LIST_ITEM";
+export const LOGIN = "LOGIN";
+export const LOGOUT = "LOGOUT";
