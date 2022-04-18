@@ -18,7 +18,6 @@ All the data is thanks to [The Movie DB](https://developers.themoviedb.org/3/get
 
 ### `Dependencies`
 
-* 
 * [axios](https://axios-http.com/docs/intro)
 * [sass](https://sass-lang.com/)
 * [React Navigation](https://reactnavigation.org/)
