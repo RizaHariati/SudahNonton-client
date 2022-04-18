@@ -15,10 +15,9 @@ This is a project for my own amusement. I love watching movies and tv shows. But
 
 ### `Dependencies`
 
+* [laravel-mix](https://laravel-mix.com/)
+* [axios](https://axios-http.com/docs/intro)
+* [sass](https://sass-lang.com/)
 * [Bootstrap](https://getbootstrap.com/)
-
-
-
-
-
-
+* [bootstrap-icons](https://icons.getbootstrap.com/)
+* [trix](https://trix-editor.org/)
