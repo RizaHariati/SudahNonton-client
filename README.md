@@ -1,24 +1,28 @@
 
-# SudahNonton-
+# SudahNonton-Client
 
-A Movie and TV Shows database and API \
-Please visit the website on : [SudahNonton-API](https://sudahnonton.000webhostapp.com/)
+A Movie and TV Shows database Android Phone App \
+Using Expo App please check my App on : [SudahNonton-Client](https://expo.dev/@rizahariati/sudahnonton-client)
 
 ## Description
-This is a project for my own amusement. I love watching movies and tv shows. But I tend to forget, whether I have watched the show or not. So using Laravel 8, I created the database website. This web also serves as API provider, so I can consume the data using other data that I created next. The design is based on the Netflix website design\
+I watched so many movies and tv shows over the years, so when I'm going to watch a new show, I want to check whether I've already watched it or not. That's what this app is for. With my phone, I can check anywhere, anytime, all of those shows. By accessing the database from the Rest API that I've created earlier.
+I can also add a new show, put it on my watch list, if I want to watch it again. 
+Other users can also use this app if they are looking for ideas of what movies or tv shows they are going to watch next\
 All the data is thanks to [The Movie DB](https://developers.themoviedb.org/3/getting-started/introduction)
 
 ## Build With
 
 ### `Main Program`
 
-* [Laravel 8](https://laravel.com/)
+* [Expo React Native](https://expo.dev/)
 
 ### `Dependencies`
 
-* [laravel-mix](https://laravel-mix.com/)
+* 
 * [axios](https://axios-http.com/docs/intro)
 * [sass](https://sass-lang.com/)
-* [Bootstrap](https://getbootstrap.com/)
-* [bootstrap-icons](https://icons.getbootstrap.com/)
-* [trix](https://trix-editor.org/)
+* [React Navigation](https://reactnavigation.org/)
+* [Formik](https://formik.org/)
+* [Async storage](https://react-native-async-storage.github.io/async-storage/)
+
+
